@@ -1,0 +1,44 @@
+body {
+    background-color: #f8fcff;
+}
+
+.card {
+    margin: auto;
+    width: 80%;
+    border: transparent;
+}
+
+.card-body {
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+    border: transparent;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+  }
+  
+table {
+    margin-bottom: 20px;
+}
+
+tbody {
+    justify-content: center;
+    text-align: center;
+}
+
